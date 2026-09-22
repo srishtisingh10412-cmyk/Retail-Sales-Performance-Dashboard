@@ -1,1 +1,18 @@
-# Retail-Sales-Performance-Dashboard
+# 📊 Retail Sales & Supply Chain Performance Dashboard
+
+## Executive Summary
+An interactive Excel dashboard designed to evaluate retail sales performance, regional profitability, customer segment distributions, and the margin impact of promotional discounting across 9,900+ transactions.
+
+## Key Features & Insights
+- **Executive Overview (Tab 1):** Real-time tracking of Total Sales ($2.30M), Total Profit ($286.4K), Profit Margin (12.47%), and Units Sold (37,843).
+- **Deep-Dive Analytics (Tab 2):** Identifies discount toxicity—demonstrating that promotional discounts exceeding 20% create net-negative operating margins.
+- **Data Architecture:** Modeled using a dedicated Date/Calendar Dimension Table linked to dynamic PivotCharts and Slicers.
+
+## Dashboard Preview
+![Executive Overview](<img width="825" height="410" alt="Screenshot 2026-09-23 024410" src="https://github.com/user-attachments/assets/42292b0b-8895-4c87-bf82-7105d1467471" />
+)
+![Deep Dive Analytics](<img width="919" height="438" alt="Screenshot 2026-09-23 024435" src="https://github.com/user-attachments/assets/ee559dd2-ef9e-46f4-af24-3df8d3ff20d0" />
+)
+
+## Tools Used
+- **Excel:** Advanced PivotTables, Dynamic Slicers, Custom KPI Cards, Data Cleaning & ETL, Data Modeling.# Retail-Sales-Performance-Dashboard
