@@ -9,7 +9,8 @@ An interactive Excel dashboard designed to evaluate retail sales performance, re
 - **Data Architecture:** Modeled using a dedicated Date/Calendar Dimension Table linked to dynamic PivotCharts and Slicers.
 
 ## Dashboard Preview
-![Executive Overview](<img width="825" height="410" alt="Screenshot 2026-09-23 024410" src="https://github.com/user-attachments/assets/42292b0b-8895-4c87-bf82-7105d1467471" />
+![Executive Overview](<img width="1075" height="532" alt="Screenshot 2026-11-05 022230" src="https://github.com/user-attachments/assets/bcf370d9-d9ed-486a-a650-56976afe90d7" />
+
 )
 ![Deep Dive Analytics](<img width="919" height="438" alt="Screenshot 2026-09-23 024435" src="https://github.com/user-attachments/assets/ee559dd2-ef9e-46f4-af24-3df8d3ff20d0" />
 )
