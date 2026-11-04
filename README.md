@@ -12,8 +12,7 @@ An interactive Excel dashboard designed to evaluate retail sales performance, re
 ![Executive Overview](<img width="1075" height="532" alt="Screenshot 2026-11-05 022230" src="https://github.com/user-attachments/assets/bcf370d9-d9ed-486a-a650-56976afe90d7" />
 
 )
-![Deep Dive Analytics](<img width="919" height="438" alt="Screenshot 2026-09-23 024435" src="https://github.com/user-attachments/assets/ee559dd2-ef9e-46f4-af24-3df8d3ff20d0" />
-)
+![Deep Dive Analytics]
 
 ## Tools Used
 - **Excel:** Advanced PivotTables, Dynamic Slicers, Custom KPI Cards, Data Cleaning & ETL, Data Modeling.# Retail-Sales-Performance-Dashboard
